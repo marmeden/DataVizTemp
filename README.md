@@ -1,7 +1,7 @@
 ## 用processing写的一些图表
 
 ### sketch_map_line
-![sketch_map_line](https://github.com/wangyasai/DataVizTemp/image/map_line.gif)
+![line](https://github.com/wangyasai/DataVizTemp/image/map_line.gif)
 关于一个点到另一个点的地图映射，后来发现uber的可视化工具[**kepler.gl**](http://kepler.gl/#/demo)也可以做到～
 
 ### sketch_moiverank
